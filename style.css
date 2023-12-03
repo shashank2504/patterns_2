@@ -1,0 +1,48 @@
+.arc{
+    width:400px;
+    height: 400px;
+    border: solid 35px red;
+    border-radius: 5000px ;
+    border-color: red transparent red transparent;
+    
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+    
+    
+
+    
+}
+.arc1{
+    width: 200px;
+    height: 200px;
+    border: solid 30px yellow;
+    border-radius: 5000px;
+    border-color: yellow transparent yellow transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+
+    
+    
+
+}
+.container{
+    height:1000px;
+    background-color: lightgreen;
+    
+}
+.arc2{
+    width:100px;
+    height:100px;;
+    border:15px solid black;
+    border-radius: 5000px;
+    border-color: transparent black transparent black;
+    margin: auto;
+}
